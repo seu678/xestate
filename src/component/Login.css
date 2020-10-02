@@ -1,0 +1,14 @@
+.login-form{
+    width: 100%;
+    max-width: 270px;
+    padding-top: 100px;
+    margin: auto;
+    height: 100%;
+  }
+  .signup-form{
+    width: 100%;
+    max-width: 500px;
+    padding-top: 100px;
+    margin: auto;
+    height: 100%;
+  }
